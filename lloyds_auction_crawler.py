@@ -6,10 +6,6 @@ from datetime import datetime
 import shutil
 import pandas as pd
 
-proxies = {
-    "http":"http://d864651:58503627%40%40%40Zlg@http-gw.tcif.telstra.com.au:8080",
-    "https":"http://d864651:58503627%40%40%40Zlg@http-gw.tcif.telstra.com.au:8080"
-}
 
 # logging.Logger.setLevel(logging.INFO)
 
